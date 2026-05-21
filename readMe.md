@@ -27,7 +27,7 @@ We recommend the uses of an SaaS-service that will fix your second issue with do
 
 By containerization and Kubernetes deployment create a more standardized and reproducible deployment workflow, which solves your third issue. This reduces deployment inconsistencies and creates a foundation for future CI/CD automation.
 
-follow the steps.
+## follow the steps.
 
 ### step 1
 clone the github repo: by using cmd ``git clone https://github.com/Zekq88/Ela-k8s-test.git``
